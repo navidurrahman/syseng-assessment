@@ -13,7 +13,7 @@ dependencies with [Composer](https://getcomposer.org/). It is based on the [orig
 1. Checkout project repo and confirm the path is in docker's file sharing config - https://docs.docker.com/docker-for-mac/#file-sharing
 
 ```
-git clone https://github.com/amazeeio/drupal-example.git drupal8-lagoon && cd $_
+git clone https://github.com/navidurrahman/drupal-example.git drupal8-lagoon && cd $_
 ```
 
 2. Make sure you don't have anything running on port 80 on the host machine (like a web server) then run `pygmy up`

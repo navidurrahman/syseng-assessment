@@ -1,5 +1,7 @@
 docker-compose-yaml: docker-compose.yml
 
+project: naveed-assessment
+
 tasks:
   pre-rollout:
     - run:
